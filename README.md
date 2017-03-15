@@ -4,7 +4,7 @@ Lista com ideia de projetos para serem desenvolvidos como portfólio<br><br>
 Segue abaixo ideias de projetos para serem implementados. O grau de complexidade fica a disposição do desenvolvedor. Coisas como modelo e UML, regra de negócio, documentação, BRIEF Simulado  entre outras coisas.<br><br>
 
 1 - Faça um site pessoal/Portfólio<br>
-2 - Faça um site de citações, que tenha um botão para novas citações e um botão para twittar essa citação. 
+2 - Faça um site de citações, que tenha um botão para novas citações e um botão para twittar essa citação.<br>
 3 - Desenvolva um blog<br>
 4 - Faça um site de uma  pizzaria<br>
 5 - Faça um Site com controle completo de uma livraria<br>
