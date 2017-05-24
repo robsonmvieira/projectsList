@@ -53,6 +53,40 @@ Informa a quantidade de visitas que cada item recebe individualmente.
 
 Console Online para Gerenciamento do Pregão
 Através do console de gerenciamento, os passos do leilão (Lote em pregão, Lote prestes a fechar, Dou-lhe uma, duas..., Lote vendido) são controlados pelo Operador, podendo assim definir o tempo que julgar conveniente para apresentação e disputa de cada lote de forma individual.
+18 -
+sistema de gestão de hotel. O serviço será contratado por pacotes, podendo totalizar entre 100 e 300 hrs. O sistema deve disponibilizar pacotes, quartos assim como descrição dos serviços. Poderá fazer reserva e usar cupons de descontos.
+19-E-commerce de sapatos e tenis
+
+IMPORTANTE atender todos os itens:
+
+- Design Responsivo.
+
+- Design Clean com suporte a banners e moderno.
+
+- Organização de Categorias e Subcategorias e Menus do site.
+
+- Checkout Transparente Mercado Pago
+
+- Integração com os correios.
+
+- O formulário de cadastro deverá conter apenas dados necessários.
+
+- O checkout deverá ser feito em 3 etapas, pedido, endereço, pagamento.
+
+- Funcionalidade de gerar lista com os dados do cliente e entrega para os pedidos pagos e que estão sem código de rastreio.
+
+- O cadastro dos produtos deverá permitir adicionar variações e tamanhos.
+
+- Deverá ser integrado com o pixel do Facebook.
+
+- Emails Transacionais (Obrigado por se cadastrar, Status de Compra, Recuperação de Senha, Recuperação de Pedido)
+
+- Funcionalidade de gerar um HTML para e-mail marketing selecionando produtos do site.
+
+- Relatórios de vendas
+
+- Boa performance. Muito importante o site ser rápido.
+
 
 
 
