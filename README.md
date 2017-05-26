@@ -18,8 +18,8 @@ Segue abaixo ideias de projetos para serem implementados. O grau de complexidade
 13 - Construa um mini-twitter <br>
 14 - Faça um site para um estúdio musical, onde as bandas/ artistas podem simplesmente clicar no calendário disponível e escolher os horários vagos, o adm do sistema deve receber um e-mail para aprovar a marcação a cada nova solicitação, uma vez reservado, o horário não poderá ficar mais disponível até que o ADM o disponibilize ou comece um novo dia.<br>
 15 - Faça um site de relacionamento completo<br>
-16 - Faça um portal EAD com nível de acesso (ADM, Aluno, Professores, Proprietários,Suporte).
-17 - Leilão
+16 - Faça um portal EAD com nível de acesso (ADM, Aluno, Professores, Proprietários,Suporte).<br>
+17 - Leilão<br>
 Este recurso permite que o arrematante possa ofertar seu lances, também, no momento em que o pregão estiver sendo realizado. Além dos lances tradicionais, por telefone ou presencial (quando o leilão for presencial), os arrematantes poderão participar, dando lances através da internet, utilizando um computador, tablet ou smarphone.
 
 Recursos de Lances pela Internet
@@ -52,9 +52,9 @@ Estatísticas de Visualização
 Informa a quantidade de visitas que cada item recebe individualmente.
 
 Console Online para Gerenciamento do Pregão
-Através do console de gerenciamento, os passos do leilão (Lote em pregão, Lote prestes a fechar, Dou-lhe uma, duas..., Lote vendido) são controlados pelo Operador, podendo assim definir o tempo que julgar conveniente para apresentação e disputa de cada lote de forma individual.
-18 -
-sistema de gestão de hotel. O serviço será contratado por pacotes, podendo totalizar entre 100 e 300 hrs. O sistema deve disponibilizar pacotes, quartos assim como descrição dos serviços. Poderá fazer reserva e usar cupons de descontos.
+Através do console de gerenciamento, os passos do leilão (Lote em pregão, Lote prestes a fechar, Dou-lhe uma, duas..., Lote vendido) são controlados pelo Operador, podendo assim definir o tempo que julgar conveniente para apresentação e disputa de cada lote de forma individual.<br>
+18 -<br>
+sistema de gestão de hotel. O serviço será contratado por pacotes, podendo totalizar entre 100 e 300 hrs. O sistema deve disponibilizar pacotes, quartos assim como descrição dos serviços. Poderá fazer reserva e usar cupons de descontos.<br><br>
 19-E-commerce de sapatos e tenis
 
 IMPORTANTE atender todos os itens:
