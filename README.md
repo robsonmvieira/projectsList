@@ -87,7 +87,6 @@ Através do console de gerenciamento, os passos do leilão (Lote em pregão, Lot
 · Criar usuários Admin nos níveis:
 1. Super Admin -> Acesso Completo
 
-
 +  Colocar Site em Manutenção
 
 + Itens em Destaque na Página Inicial
@@ -95,8 +94,6 @@ Através do console de gerenciamento, os passos do leilão (Lote em pregão, Lot
 + Configuração de categorias
 
 + Gerenciar pagamentos
-
-· 
 
 + 2. Gerenciar Compradores
 
